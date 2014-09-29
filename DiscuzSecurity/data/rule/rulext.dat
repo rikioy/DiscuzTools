@@ -1,0 +1,3 @@
+move_uploaded_file\s*\(.+,.+\)\s*;?
+copy\s*\(.+,.+\)\s*;?
+eval\s*\([^\)]*?\)\s*;?

@@ -1,0 +1,7 @@
+[common]
+discuz_path = /data/www/discuz
+ds_path = /usr/local/discuz-security
+
+[mail]
+to_user_mail = 
+to_discuz_mail = discuzsupport@126.com
